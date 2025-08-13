@@ -13,5 +13,3 @@
 💬 Ask me about my experiences in programming competitions, the best resources for learning algorithms, or the latest trends in machine learning and AI.
 
 😄 Pronouns: He/Him
-
-⚡ Fun fact: I once solved a problem in a programming competition in less than 10 minutes, which was a personal best for me!
