@@ -1,15 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I'm Infinovast!
 
-**About Me**
+一名数据科学与大数据技术专业的学生，目前主要喜欢 Python 和 C++。
 
-🔭 I’m currently working on improving my problem-solving skills and enhancing my algorithmic knowledge through participating in programming competitions. I'm particularly interested in competitive programming platforms like Codeforces, LeetCode, and TopCoder.
+- 喜欢搓一些 Python、C++ 小项目
+- 正在不断学习新技术
+- 欢迎交流与合作
 
-🌱 I’m currently learning advanced data structures and algorithms, as well as exploring the realms of machine learning and artificial intelligence. I aim to apply these concepts to real-world problems and contribute to the development of innovative solutions.
+A student majoring in Data Science and Big Data Technology, currently mainly interested in Python and C++.
 
-👯 I’m looking to collaborate on projects that involve challenging algorithms, machine learning, or AI. I believe that teamwork can lead to great outcomes and I'm eager to learn from others' expertise.
+- Enjoy tinkering with small Python and C++ projects
+- Continuously learning new technologies
+- Open to communication and collaboration
 
-🤔 I’m looking for help with understanding complex algorithmic concepts and optimizing code. I'm also open to discussing strategies for improving one's competitive programming skills.
+> "Forward forever..."
 
-💬 Ask me about my experiences in programming competitions, the best resources for learning algorithms, or the latest trends in machine learning and AI.
+---
 
-😄 Pronouns: He/Him
+**联系方式：**
+- GitHub: [Infinovast](https://github.com/Infinovast)
